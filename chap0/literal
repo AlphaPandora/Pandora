@@ -1,0 +1,4 @@
+Literal:
+
+A Literal is a fixed value that has been inserted (hardcoded) directly in to the source code, such as 500, 3.14.
+Literals always evaluate to themselves.
